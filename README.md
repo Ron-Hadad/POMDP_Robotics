@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-Every afternoon, a mother returns from work, picks up her baby from daycare, and comes home. She activates her home assistant robot to entertain her baby while she rests. The robot's basic skills include navigating to a location, picking a toy, and placing it in the baby's lap. However, these actions are not always successful due to the uncertainty of the environment.
+Every afternoon, a mother returns from work, picks up her baby from daycare, and comes home. She activates her home assistant robot to entertain her baby while she rests. The robot's basic skills include navigating to a location, picking a toy, and placing it in the baby's lap. However, these actions are not always successful, and reword uncertain amount of points or fines, due to the uncertainty of the environment.
 
 ## How to Run
 
@@ -33,4 +33,3 @@ Every afternoon, a mother returns from work, picks up her baby from daycare, and
 
 ---
 
-_Guy Ginat, 206922544, and Ron Hadad, 209260645, completed this project._
